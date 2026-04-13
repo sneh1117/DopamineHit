@@ -1,196 +1,185 @@
-# 🧠 DopamineHit
+# 🎧 DopamineHit
 
-🔗 **Live Experience:** [https://sneh1117.github.io/DopamineHit/](https://sneh1117.github.io/DopamineHit/)
+> oddly satisfying things — no purpose whatsoever
 
----
+![HTML](https://img.shields.io/badge/Made%20with-HTML5-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow)
+![Dependencies](https://img.shields.io/badge/Dependencies-None-success)
+![License](https://img.shields.io/badge/License-Free-blue)
 
-## ⚠️ What This Is
-
-**DopamineHit is not a game.**
-There are no levels. No score. No ending.
-
-It’s a **collection of interactive loops** designed to keep you engaged longer than you expect.
-
-You don’t “use” it.
-You **fall into it.**
+A collection of interactive, oddly satisfying mini-experiences built with pure frontend technologies.  
+No frameworks. No installs. Just open and enjoy.
 
 ---
 
-## 🌀 The Experience
+## 🌐 Live Demo
 
-DopamineHit is a set of minimal, oddly satisfying interactions:
 
-* You click a door → the world changes
-* You pop bubbles → you keep going
-* You knit → pattern after pattern
-
-No instructions.
-No objective.
-Just interaction → feedback → repeat.
-
----
-
-## 🧠 Core Idea
-
-> **Why do small interactions feel so satisfying?**
-
-This project explores:
-
-* Curiosity loops
-* Repetition without fatigue
-* Micro-rewards
-* Sensory feedback
-
-Inspired by:
-
-* endless scrolling
-* fidget tools
-* idle games
-* analog/liminal web experiences
+https://sneh1117.github.io/DopamineHit/
 
 ---
 
 ## ✨ Features
 
-### 🚪 Infinite Door Loop
-
-* A constantly shifting environment
-* Each click leads to a new variation
-* Subtle changes in color, lighting, and mood
-* No clear ending — just progression without closure
-
----
-
-### 🫧 Bubble Wrap Pop
-
-* Simple, tactile interaction
-* Instant visual feedback
-* Designed for mindless repetition
-* Surprisingly hard to stop
+### 🫧 Bubble Wrap
+Pop satisfying bubbles — except one.
+- Dynamic grid
+- “Rebel” bubble mechanic
+- Live stats tracking
 
 ---
 
-### 🧶 Knitting Simulation
-
-* Calm, rhythmic interaction
-* Loop-based pattern creation
-* Focuses on flow rather than outcome
-* Quietly satisfying, almost meditative
-
----
-
-### 🎨 Reactive Visual Design
-
-* Handcrafted color palettes
-* Ambient lighting + glow effects
-* Smooth transitions between states
+### 🧶 Endless Knitting
+Draw stitched patterns on a canvas.
+- Color selection
+- Adjustable stitch size
+- Tracks stitches & rows
 
 ---
 
-### 🔁 Addictive Interaction Loops
-
-* Fast feedback cycles
-* No friction
-* No instructions
-
-You just *start*… and don’t stop.
+### 🚪 Infinite Doors
+Open a door → find another.
+- Infinite loop illusion
+- Smooth zoom transitions
+- Flow mode (auto open)
 
 ---
 
-## 🧩 Design Philosophy
+### 🪟 Peel the Sticker
+Scratch and peel stickers.
+- Multiple sticker styles
+- Tools (nail, finger, knife)
+- Progress + rewards
 
-DopamineHit sits between:
+---
 
-* interactive art
-* behavioral psychology
-* liminal design
-* digital fidget experiences
+### 🏖️ Kinetic Sand
+Play with simulated sand.
+- Tools: carve, pour, rake, slice, scoop
+- Shape molds
+- Color options
+- Combo system
 
-It removes:
+---
 
-* goals
-* pressure
-* complexity
+### 🧼 Brush & Clean
+Clean layered dirt surfaces.
+- Dirt types: grime, soap, smoke, mud, rust
+- Tools: brush, sponge, spray, mop
+- Multi-layer progression
 
-And replaces them with:
+---
 
-* feeling
-* repetition
-* curiosity
+## 🔊 Audio
+
+Built with the **Web Audio API**:
+- Procedural sound effects
+- Interaction-based audio
+- Volume + toggle controls
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **HTML5**
-* **CSS3 (animations, lighting, transitions)**
-* **Vanilla JavaScript**
-* **Canvas / Web-based rendering**
+- HTML5  
+- CSS3  
+- Vanilla JavaScript  
+- Canvas API  
+- Web Audio API  
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 Getting Started
 
+1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/DopamineHit.git
-cd DopamineHit
+git clone https://github.com/sneh1117/DopamineHit.git
+```
+
+2. Open the project:
+```bash
+cd dopaminehit
 open index.html
 ```
 
-Or just use the live experience.
+Or just double-click `index.html`.
 
 ---
 
-## 📸 Preview (Highly Recommended)
+## 📁 Structure
 
-Add:
-
-* 🎥 GIF of door transitions
-* 🫧 Bubble wrap popping loop
-* 🧶 Knitting animation
-
-This project becomes **10x more addictive** just from visuals.
+```
+/dopaminehit
+  └── index.html
+```
 
 ---
 
-## 🔮 Future Ideas
+## 📱 Compatibility
 
-* 🔊 Sound design (pops, ambient hum, soft loops)
-* 👁️ Hidden rare interactions
-* 🧠 Subtle psychological tricks (delayed feedback, fake randomness)
-* 📊 Time tracking (how long users stay)
-* 🕳️ Hidden “exit” that almost no one finds
+- Desktop (mouse)
+- Mobile (touch supported)
 
----
-
-## 💡 Why This Exists
-
-Not everything needs a purpose.
-
-Some things exist to:
-
-* occupy your mind
-* calm your thoughts
-* or quietly trap your attention
+Works best on:
+- Chrome
+- Edge
+- Safari
 
 ---
 
-## 👨‍💻 Author
+## 🎯 Philosophy
 
-**Sneh Naik**
-🔗 [https://github.com/sneh1117](https://github.com/sneh1117)
+No goals.  
+No productivity.  
+Just interaction and satisfaction.
+
+---
+
+## 🧪 Future Ideas
+
+- Save progress
+- More mini experiences
+- Dark mode
+- Performance improvements
+
+---
+
+## 📸 Screenshots
+
+<img width="1365" height="717" alt="image" src="https://github.com/user-attachments/assets/32a54124-a068-4bc2-960e-8332537f933d" />
+
+<img width="1365" height="715" alt="image" src="https://github.com/user-attachments/assets/c9587a09-9ab9-4936-8ec3-e7c7f5ce102d" />
+
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/aa56597e-9792-497e-be4a-83b00ff54d91" />
+
+<img width="1356" height="712" alt="image" src="https://github.com/user-attachments/assets/b49df0ed-1bca-4685-9803-3e37d67942ec" />
+
+<img width="1365" height="719" alt="image" src="https://github.com/user-attachments/assets/bc2b2a05-6b4b-46b3-bb14-b70bb49239a1" />
+
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/5ad017ea-76eb-44bc-8c4a-a05c0f90367a" />
+
+---
+
+## 🌍 Deployment (GitHub Pages)
+
+1. Go to **Settings → Pages**
+2. Select branch: `main`
+3. Folder: `/root`
+4. Save
+
+Your site:
+```
+https://sneh117.github.io/DopamineHit/
+```
 
 ---
 
 ## 📜 License
 
-MIT License
+Free to use, modify, and share.
 
 ---
 
-## ⚠️ Final Note
+## 🙃 Final Note
 
-If you came just to “try it for a minute”
-…and stayed longer than expected—
-
-It worked.
+This app solves nothing — and that’s the point.
